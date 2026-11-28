@@ -1,0 +1,27 @@
+{
+ "coverage-map": {
+  "commit": "3867cb6384d9e070caa966f697349830357163d2",
+  "created": 1795874456,
+  "run": "46140898466"
+ },
+ "deps/core-tests": {
+  "commit": "3867cb6384d9e070caa966f697349830357163d2",
+  "created": 1795379188,
+  "run": "45059987336"
+ },
+ "deps/editor-tests": {
+  "commit": "3867cb6384d9e070caa966f697349830357163d2",
+  "created": 1795379188,
+  "run": "45059987336"
+ },
+ "deps/htmlui-tests": {
+  "commit": "3867cb6384d9e070caa966f697349830357163d2",
+  "created": 1795379188,
+  "run": "45059987336"
+ },
+ "shadow": {
+  "commit": "3867cb6384d9e070caa966f697349830357163d2",
+  "created": 1795796701,
+  "run": "45996264278"
+ }
+}
